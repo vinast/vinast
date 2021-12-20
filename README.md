@@ -8,17 +8,16 @@
   <img src="https://img.shields.io/badge/Instagram-vinastt_-red"></center>
 
 
-  # how to open this?
+  # About me?
   ```
-  download dan buka menggunakan Software atau Aplikasi Browser terbaik anda 
-  atau mungkin anda bisa mengedit ini sesuka hati anda
-  >>menggunakan aplikasi browser maka anda harus merubah
-  nya ke mode Desktop
+  Perkenalkan nama saya Didik Vinastu biasa dipanggil Vin. 
+  Saya lahir di Batin Pengambang, Saya seorang anak kecil yang ingin tau hal-hal baru . 
+  Saat ini saya berstatus Mahasiswa. Saya mengambil jurusan Teknik Informatika .
   
   ```
 
 <p><br>I'am vinast</br>
- <br>  We are An0nym0us..</br>
+ <span>We are An0nym0us..</span>
  <br><span>We are legion..<span></br>
  <br>         We do not forgive..</br>
  <br>           We do not forget..<br>
