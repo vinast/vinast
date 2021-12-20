@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 ### 📫 Contact Me
 - Facebook - [Didik Vinast](https://www.facebook.com/profile.php?id=100026730090913)
 - Twitter - [@vinastt](https://twitter.com/vinastt)
-- Blog - [https://vinast.github.io](https://vinast.github.io/)
-- 
+- Blog - [vinast.github.io](https://vinast.github.io/)
+- Instagram - [@vinastt_](https://instagram.com/vinastt_)
