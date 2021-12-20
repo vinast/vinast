@@ -1,19 +1,29 @@
 ### Hi there 👋
 
-<!--
-**vinast/vinast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/50107558/70987321-387b4a80-20f2-11ea-94e0-9a1078e14e37.png" width="154"></center>
+  <h1 align="center">Deface code Message 1.0</h1>
+  <p align="center">Terimakasih sudah menggunakan script ini<p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Instagram-vinastt_-red"></center>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  # how to open this?
+  ```
+  download dan buka menggunakan Software atau Aplikasi Browser terbaik anda 
+  atau mungkin anda bisa mengedit ini sesuka hati anda
+  >>menggunakan aplikasi browser maka anda harus merubah
+  nya ke mode Desktop
+  
+  ```
+
+<p><br>I'am VIN4ST2</br>
+ <br>     We are An0nym0us..</br>
+ <br>      We are legion..</br>
+ <br>         We do not forgive..</br>
+ <br>           We do not forget..<br>
+ <br>             Expect us!</br>
+  </p>
 
 ## Hi there, I'm Didik Vinast 👋
 
@@ -33,32 +43,6 @@ Here are some ideas to get you started:
 
 ### 📫 Contact Me
 - Facebook - [Didik Vinast](https://www.facebook.com/profile.php?id=100026730090913)
-
-name: Waka Readme
-
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *'
-
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_COMMIT: "False"
-          SHOW_DAYS_OF_WEEK: "False"
-          SHOW_LANGUAGE: "True"
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "False"
-          SHOW_TIMEZONE: "True"
-          SHOW_EDITORS: "True"
-          SHOW_SHORT_INFO: "False"
-          SHOW_LOC_CHART: "False"
 - Twitter - [@vinastt](https://twitter.com/vinastt)
 - Blog - [vinast.github.io](https://vinast.github.io/)
 - Instagram - [@vinastt_](https://instagram.com/vinastt_)
