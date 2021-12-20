@@ -22,7 +22,7 @@
 <p>We do not forget............☠️</p>
 <p>Expect us.................!☠️</p>
 
-## Hi there, I'm Didik Vinast 👋
+## Hello World, I'm Didik Vinast 👋
 
 [![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=vinast)](https://github.com/vinast/vinast)
 
