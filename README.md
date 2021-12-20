@@ -36,8 +36,8 @@
 
 ### 📊 Weekly development breakdown
 
-<!--START_SECTION:wa-->
-<!--END_SECTION:wa🔔-->
+I like to joke! 😂:
+I'm always on time! ⏰:
 
 ### 📫 Contact Me
 - Facebook - [Didik Vinast](https://www.facebook.com/profile.php?id=100026730090913)
