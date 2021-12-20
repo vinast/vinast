@@ -8,7 +8,9 @@
   <img src="https://img.shields.io/badge/OS-Linux_-blue">&#160<img src="https://img.shields.io/badge/Tools-Docker_-green">&#160<img src="https://img.shields.io/badge/Code-JavaScript_-gold">&#160<img src="https://img.shields.io/badge/Shell-Bash_-orange">&#160<img src="https://img.shields.io/badge/Code-Make_-pink">&#160<img src="https://img.shields.io/badge/Cloud-Computing_-blue">&#160<img src="https://img.shields.io/badge/Code-C++_-yellow">&#160<img src="https://img.shields.io/badge/Code-C_-purple"></center>
 
 
-  # About Me??👻
+
+
+  # 👻About Me👻
   ```
   Perkenalkan nama saya Didik Vinastu biasa dipanggil Vin. 
   Saya lahir di Batin Pengambang, Saya seorang anak kecil yang ingin tau hal-hal baru. 
