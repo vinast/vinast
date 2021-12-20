@@ -17,11 +17,11 @@
   ```
 
 <p><br>I'am vinast</br>
-<span><p>We are An0nym0us..</p></span>
-<p>We are legion..</p>
-<p>We do not forgive..</p>
-<p>We do not forget..</p>
-<p>Expect us!</p>
+<span><p>We are An0nym0us..👻</p></span>
+<p>We are legion.............☠️</p>
+<p>We do not forgive...........☠️</p>
+<p>We do not forget..............☠️</p>
+<p>Expect us!👻</p>
 
 ## Hi there, I'm Didik Vinast 👋
 
@@ -31,12 +31,12 @@
 - 🔭 I’m currently working on a ton of side project!
 - 🌱 I’m currently learning about DevOps specially Docker and K8s
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love cooking, finding bug and create unfinished side project 
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I like play fotball $ volleyball, finding bug and create unfinished side project 
 
 ### 📊 Weekly development breakdown
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:internet-->
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
