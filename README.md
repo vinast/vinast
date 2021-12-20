@@ -18,7 +18,7 @@
 
 <p><br>I'am vinast</br>
 <span><p>We are An0nym0us..👻</p></span>
-<p>We are legion.............☠️</p>
+<p>We are legion...............☠️</p>
 <p>We do not forgive...........☠️</p>
 <p>We do not forget..............☠️</p>
 <p>Expect us!👻</p>
@@ -32,7 +32,7 @@
 - 🌱 I’m currently learning about DevOps specially Docker and K8s
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I like play fotball $ volleyball, finding bug and create unfinished side project 
+- ⚡ Fun fact: I like play fotball & volleyball, finding bug and create unfinished side project 
 
 ### 📊 Weekly development breakdown
 
