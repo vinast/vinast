@@ -13,7 +13,6 @@
   Perkenalkan nama saya Didik Vinastu biasa dipanggil Vin. 
   Saya lahir di Batin Pengambang, Saya seorang anak kecil yang ingin tau hal-hal baru. 
   Saat ini saya berstatus Mahasiswa. Saya mengambil jurusan Teknik Informatika.
-  
   ```
 
 <p><br>👻I'am vinast👻</br>
