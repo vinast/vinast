@@ -35,8 +35,8 @@
 
 ### 📊 Weekly development breakdown
 
-I like to joke! 😂:
-I'm always on time! ⏰:
+<p>I like to joke! 😂:</p>
+<p>I'm always on time! ⏰:</p>
 
 ### 📫 Contact Me
 - <img src="https://img.icons8.com/ios-glyphs/30/000000/facebook-new.png"/> [Didik Vinast](https://www.facebook.com/profile.php?id=100026730090913)
