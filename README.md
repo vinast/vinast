@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Ryan - aka NyanDev 👋
+## Hi there, I'm Didik Vinast 👋
 
 [![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=nyancodeid)](https://github.com/nyancodeid/nyancodeid)
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
-- Facebook - [Ryan Aunur Rassyid](https://facebook.com/ryan.hac)
-- Twitter - [@ryanaunur](https://twitter.com/ryanaunur)
-- Blog - [https://blog.nyandev.id](https://blog.nyandev.id)
+- Facebook - [Didik Vinast](https://www.facebook.com/profile.php?id=100026730090913)
+- Twitter - [@vinastt](https://twitter.com/vinastt)
+- Blog - [https://vinast.github.io](https://vinast.github.io/)
 - 
