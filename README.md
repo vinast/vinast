@@ -39,7 +39,7 @@ I like to joke! 😂:
 I'm always on time! ⏰:
 
 ### 📫 Contact Me
-- Facebook - [Didik Vinast](https://www.facebook.com/profile.php?id=100026730090913)
+- Facebook<img src="https://img.icons8.com/ios-glyphs/30/000000/facebook-new.png"/> - [Didik Vinast](https://www.facebook.com/profile.php?id=100026730090913)
 - Twitter - [@vinastt](https://twitter.com/vinastt)
-- Blog - [vinast.github.io](https://vinast.github.io/)
 - Instagram - [@vinastt_](https://instagram.com/vinastt_)
+- Website - [vinast.github.io](https://vinast.github.io/)
