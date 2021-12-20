@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Didik Vinast 👋
 
-[![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=nyancodeid)](https://github.com/vinast/vinast)
+[![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=vinast)](https://github.com/vinast/vinast)
 
 ### I'm a Single Fighter Developer!
 - 🔭 I’m currently working on a ton of side project!
