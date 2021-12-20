@@ -4,8 +4,8 @@
   <img src="https://user-images.githubusercontent.com/50107558/70987321-387b4a80-20f2-11ea-94e0-9a1078e14e37.png" width="154"></center>
   <h1 align="center">I'M DIDIK VINASTU</h1>
   <p align="center">Welcome to my github. Enjoyy!!<p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Instagram-vinastt_-red"></center>
+  <p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux_-blue">&#160<img src="https://img.shields.io/badge/Tools-Docker_-green">&#160<img src="https://img.shields.io/badge/Code-JavaScript_-gold">&#160<img src="https://img.shields.io/badge/Shell-Bash_-orange">&#160<img src="https://img.shields.io/badge/Code-Make_-pink">&#160<img src="https://img.shields.io/badge/Cloud-Computing_-blue">&#160<img src="https://img.shields.io/badge/Code-C++_-yellow">&#160<img src="https://img.shields.io/badge/Code-C_-purple"></center>
 
 
   # About Me??👻
@@ -45,4 +45,5 @@
 - <img src="https://img.icons8.com/material-outlined/30/000000/domain.png"/>[vinast.github.io](https://vinast.github.io/)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/os-linux_-blue"></center>
+  <img src="https://img.shields.io/badge/Instagram-vinastt_ _-red">&#160<img src="https://img.shields.io/badge/Twitter-vinastt_-red">&#160<img src="https://img.shields.io/badge/Email-dvvinas2@gmail.com_-red">&#160<img src="https://img.shields.io/badge/Facebook-Didik Vinast_-red"></center>
+
