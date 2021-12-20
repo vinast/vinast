@@ -43,3 +43,6 @@
 - <img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/>[@vinastt](https://twitter.com/vinastt)
 - <img src="https://img.icons8.com/material-outlined/30/000000/instagram-new.png"/>[@vinastt_](https://instagram.com/vinastt_)
 - <img src="https://img.icons8.com/material-outlined/30/000000/domain.png"/>[vinast.github.io](https://vinast.github.io/)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/os-linux_-blue"></center>
