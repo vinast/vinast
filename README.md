@@ -18,11 +18,10 @@
 
 <p><br>I'am vinast</br>
  <span>We are An0nym0us..</span>
- <br><span>We are legion..<span></br>
- <br>         We do not forgive..</br>
- <br>           We do not forget..<br>
- <br>             Expect us!</br>
-  </p>
+     We are legion..
+ We do not forgive..
+ We do not forget..
+ Expect us!</p>
 
 ## Hi there, I'm Didik Vinast 👋
 
