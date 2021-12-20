@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Instagram-vinastt_-red"></center>
 
 
-  # About me?
+  # About Me??👻
   ```
   Perkenalkan nama saya Didik Vinastu biasa dipanggil Vin. 
   Saya lahir di Batin Pengambang, Saya seorang anak kecil yang ingin tau hal-hal baru. 
