@@ -11,17 +11,17 @@
   # About me?
   ```
   Perkenalkan nama saya Didik Vinastu biasa dipanggil Vin. 
-  Saya lahir di Batin Pengambang, Saya seorang anak kecil yang ingin tau hal-hal baru . 
-  Saat ini saya berstatus Mahasiswa. Saya mengambil jurusan Teknik Informatika .
+  Saya lahir di Batin Pengambang, Saya seorang anak kecil yang ingin tau hal-hal baru. 
+  Saat ini saya berstatus Mahasiswa. Saya mengambil jurusan Teknik Informatika.
   
   ```
 
 <p><br>I'am vinast</br>
- <p>We are An0nym0us..</p>
-     We are legion..
- We do not forgive..
- We do not forget..
- Expect us!</p>
+<span><p>We are An0nym0us..</p></span>
+<p>We are legion..</p>
+<p>We do not forgive..</p>
+<p>We do not forget..</p>
+<p>Expect us!</p>
 
 ## Hi there, I'm Didik Vinast 👋
 
