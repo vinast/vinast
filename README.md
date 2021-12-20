@@ -16,12 +16,12 @@
   
   ```
 
-<p><br>I'am vinast</br>
-<span><p>We are An0nym0us..👻</p></span>
-<p>We are legion...............☠️</p>
-<p>We do not forgive...........☠️</p>
-<p>We do not forget..............☠️</p>
-<p>Expect us!👻</p>
+<p><br>👻I'am vinast👻</br>
+<span><p>We are An0nym0us...☠️</p></span>
+<p>We are legion...................☠️</p>
+<p>We do not forgive................☠️</p>
+<p>We do not forget............☠️</p>
+<p>Expect us.................!☠️</p>
 
 ## Hi there, I'm Didik Vinast 👋
 
@@ -36,8 +36,8 @@
 
 ### 📊 Weekly development breakdown
 
-<!--START_SECTION:internet-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:wa-->
+<!--END_SECTION:wa🔔-->
 
 ### 📫 Contact Me
 - Facebook - [Didik Vinast](https://www.facebook.com/profile.php?id=100026730090913)
