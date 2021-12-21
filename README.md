@@ -10,7 +10,7 @@
 
 <br><br>
 
-  # 👻About Me👻
+  # 👻About me👻
   ```
   Perkenalkan nama saya Didik Vinastu biasa dipanggil Vin. 
   Saya lahir di Batin Pengambang, Saya seorang anak kecil yang ingin tau hal-hal baru. 
