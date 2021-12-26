@@ -5,7 +5,7 @@
   <h1 align="center">I'M DIDIK VINASTU</h1>
   <p align="center">Welcome to my github. Enjoyy!!!<p>
   <p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux_-blue">&#160<img src="https://img.shields.io/badge/Tools-Docker_-green">&#160<img src="https://img.shields.io/badge/Code-JavaScript_-gold">&#160<img src="https://img.shields.io/badge/Shell-Bash_-orange">&#160<img src="https://img.shields.io/badge/Code-Make_-pink">&#160<img src="https://img.shields.io/badge/Cloud-Computing_-blue">&#160<img src="https://img.shields.io/badge/Code-C++_-yellow">&#160<img src="https://img.shields.io/badge/Code-C_-purple"></center>
+  <img src="https://img.shields.io/badge/OS-Linux_-blue">&#160<img src="https://img.shields.io/badge/Tools-Docker_-green">&#160<img src="https://img.shields.io/badge/Code-JavaScript_-gold">&#160<img src="https://img.shields.io/badge/Shell-Bash_-orange">&#160<img src="https://img.shields.io/badge/Code-Make_-pink">&#160<img src="https://img.shields.io/badge/Cloud-Computing_-blue">&#160<img src="https://img.shields.io/badge/Code-C++_-yellow">&#160<img src="https://img.shields.io/badge/Code-C_-purple">&#160<img src="https://img.shields.io/badge/Framework-Bootstrap_-yellow">&#160<img src="https://img.shields.io/badge/Framework-ReactJS_-pink"></center>
 
 
 <br><br>
