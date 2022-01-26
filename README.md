@@ -4,8 +4,24 @@
   <img src="https://user-images.githubusercontent.com/50107558/70987321-387b4a80-20f2-11ea-94e0-9a1078e14e37.png" width="154"></center>
   <h1 align="center">I'M DIDIK VINASTU</h1>
   <p align="center">Welcome to my github. Enjoyy!!!<p>
-  <p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux_-blue">&#160<img src="https://img.shields.io/badge/Tools-Docker_-green">&#160<img src="https://img.shields.io/badge/Code-JavaScript_-gold">&#160<img src="https://img.shields.io/badge/Shell-Bash_-orange">&#160<img src="https://img.shields.io/badge/Code-Make_-pink">&#160<img src="https://img.shields.io/badge/Cloud-Computing_-blue">&#160<img src="https://img.shields.io/badge/Code-C++_-yellow">&#160<img src="https://img.shields.io/badge/Code-C_-purple">&#160<img src="https://img.shields.io/badge/Framework-Bootstrap_-yellow">&#160<img src="https://img.shields.io/badge/Framework-ReactJS_-pink"></center>
+<!--   <p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux_-blue">&#160<img src="https://img.shields.io/badge/Tools-Docker_-green">&#160<img src="https://img.shields.io/badge/Code-JavaScript_-gold">&#160<img src="https://img.shields.io/badge/Shell-Bash_-orange">&#160<img src="https://img.shields.io/badge/Code-Make_-pink">&#160<img src="https://img.shields.io/badge/Cloud-Computing_-blue">&#160<img src="https://img.shields.io/badge/Code-C++_-yellow">&#160<img src="https://img.shields.io/badge/Code-C_-purple">&#160<img src="https://img.shields.io/badge/Framework-Bootstrap_-yellow">&#160<img src="https://img.shields.io/badge/Framework-ReactJS_-pink"></center> -->
+  
+ <div align="center">
+  My Programming Language
+  <br><br>
+  <img src="https://img.shields.io/badge/javascript%20-%808000.svg?&style=for-the-badge&logo=javaScript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/Bash-Shell%20-%23777BB4.svg?&style=for-the-badge&logo=gnu-bash&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-%23239120.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/linux-%23777BB4.svg?style=for-the-badge&logo=linux&logoColor=pink"/>
+  <br><br>
+  My Programing Framework
+  <br><br>
+  <img src="https://img.shields.io/badge/React%20js-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%23404e97.svg?style=for-the-badge&logo=bootstrap&logoColor=%2361DAFB"/>
+  <br><br></div>
 
 
 <br><br>
@@ -27,6 +43,7 @@
 ## Hello World, I'm Didik Vinast 👋
 
 <!-- [![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=vinast)](https://github.com/vinast/vinast) -->
+<div align="center">
 <table>
    <td width="50%" valign="top">
     <h3 align="center"> GitHub Status<h3>
@@ -40,7 +57,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinast&theme=outrun&column=7&no-frame=true"/>
      </p>
   </td>
-</table>
+      </table></div>
      <br>
 
      
