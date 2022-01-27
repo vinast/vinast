@@ -11,9 +11,9 @@
   My Programming Language
   <br><br>
   <img src="https://img.shields.io/badge/javascript%20-yellow?&style=for-the-badge&logo=javaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash%20Shell%20-lightgrey?&style=for-the-badge&logo=gnu-bash&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash%20Shell%20-gray?&style=for-the-badge&logo=gnu-bash&logoColor=black"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-green?style=for-the-badge&logo=c&logoColor=informational"/>
+  <img src="https://img.shields.io/badge/c-teal?style=for-the-badge&logo=c&logoColor=blue"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/linux%20-darkgreen?style=for-the-badge&logo=linux&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Git-%23EA4335?&style=for-the-badge&logo=git&logoColor=white"/>
