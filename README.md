@@ -10,19 +10,19 @@
  <div align="center">
   My Programming Language
   <br><br>
-  <img src="https://img.shields.io/badge/javascript%20-yellow?&style=for-the-badge&logo=javaScript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/Bash-Shell%20-%23777BB4.svg?&style=for-the-badge&logo=gnu-bash&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/javascript%20-yellow?&style=for-the-badge&logo=javaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash%20Shell%20-lightgrey?&style=for-the-badge&logo=gnu-bash&logoColor=black"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-%23239120.svg?style=for-the-badge&logo=c&logoColor=informational"/>
+  <img src="https://img.shields.io/badge/c-green?style=for-the-badge&logo=c&logoColor=informational"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/linux-%23777BB4.svg?style=for-the-badge&logo=linux&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/linux%20-darkgreen?style=for-the-badge&logo=linux&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Git-%23EA4335?&style=for-the-badge&logo=git&logoColor=white"/>
   
   <br><br>
   My Programing Framework
   <br><br>
   <img src="https://img.shields.io/badge/React%20js-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%23404e97.svg?style=for-the-badge&logo=bootstrap&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%23404e97.svg?style=for-the-badge&logo=bootstrap&logoColor=teal"/>
   <br><br></div>
 
 
@@ -89,7 +89,7 @@
 <p align="center">
 <a href="https://www.instagram.com/vinastt_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="dvvinas2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://twitter.com/vinastt/" target="_blank"><img src="https://img.shields.io/badge/Twitter-61DAFB?&style=flat-square&logo=Twitter&logoColor=blue" alt="Twitter"></a>
-<a href="https://www.facebook.com/profile.php?id=100026730090913" target="_blank"><img src="https://img.shields.io/badge/Facebook-9fc?&style=flat-square&logo=facebook&logoColor=blue" alt="Facebook"></a>
+<a href="https://twitter.com/vinastt/" target="_blank"><img src="https://img.shields.io/badge/Twitter-9fc?&style=flat-square&logo=Twitter&logoColor=blue" alt="Twitter"></a>
+<a href="https://www.facebook.com/profile.php?id=100026730090913" target="_blank"><img src="https://img.shields.io/badge/Facebook-61DAFB?&style=flat-square&logo=facebook&logoColor=blue" alt="Facebook"></a>
 </p>
 
