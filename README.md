@@ -15,7 +15,8 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/c-%23239120.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/linux-%23777BB4.svg?style=for-the-badge&logo=linux&logoColor=pink"/>
+  <img src="https://img.shields.io/badge/linux-%23777BB4.svg?style=for-the-badge&logo=linux&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Git%20Bash-%23404c67.svg?style=for-the-badge&logo=git&logoColor"/>
   <br><br>
   My Programing Framework
   <br><br>
