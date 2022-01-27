@@ -30,9 +30,9 @@
 
   # 👻About me👻
   ```
-  Perkenalkan nama saya Didik Vinastu biasa dipanggil Vin. 
-  Saya lahir di Batin Pengambang, Saya seorang anak kecil yang ingin tau hal-hal baru. 
-  Saat ini saya berstatus Mahasiswa. Saya mengambil jurusan Teknik Informatika.
+  Introduce my name is Didik Vinastu usually called Vin.
+ I was born in Batin Pengambang, I am a small child who wants to know new things.
+ I am currently a student. I majored in Information Engineering.
   ```
 <!-- 
 <p><br>👻I'am vinast👻</br>
