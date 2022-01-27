@@ -88,7 +88,7 @@
 
 <p align="center">
 <a href="https://www.instagram.com/vinastt_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="dvvinas2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="mailto:dvvinas2@gmail.com?subject=Ini%20adalah%20judul%20email%20default" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://twitter.com/vinastt/" target="_blank"><img src="https://img.shields.io/badge/Twitter-9fc?&style=flat-square&logo=Twitter&logoColor=blue" alt="Twitter"></a>
 <a href="https://www.facebook.com/profile.php?id=100026730090913" target="_blank"><img src="https://img.shields.io/badge/Facebook-61DAFB?&style=flat-square&logo=facebook&logoColor=blue" alt="Facebook"></a>
 </p>
