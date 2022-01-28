@@ -63,12 +63,11 @@
       </table></div>
      <br>
   
-  <p align="center">
 
-<p align="center">
-  <a href="https://github.com/vinast"><img src="https://github-profile-trophy.vercel.app/?username=vinast&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+<!-- <p align="center">
+  <a href="https://github.com/vinast"><img src="https://github-profile-trophy.vercel.app/?username=vinast&theme=radical&margin-w=25&no-bg=true&no-frame=true" /><a>
 </p>
-
+ -->
 <br><br>
     
 ## I'm a Single Fighter Developer!
