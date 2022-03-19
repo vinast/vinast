@@ -82,7 +82,9 @@
 ## Wanna give me some appreciations? Yes please :D
 
 💸 [Saweria](https://saweria.co/vinast)
+<!--   <img align="right" width="250" height="300" src="https://tenor.com/bPBy1.gif"> -->
      <p>thanks for your support <3</p><br>
+    
 
 
 ## 📫 Contact Me
