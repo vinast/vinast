@@ -53,6 +53,9 @@
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=vinast&theme=algolia&column=7&no-frame=true" />
     </p>
+<!--       <p>
+        <img src="https://camo.githubusercontent.com/aaa45ae6d7257960322d83e8c00adf6c94c7ba92a2743feedf6c89e22b7abfda/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d7374617473267469746c655f636f6c6f723d6666662669636f6e5f636f6c6f723d66396639663926746578745f636f6c6f723d3966396639662662675f636f6c6f723d313531353135"/>
+      </p> -->
    </td>
    <td width="50%" valign="top">
     <h3 align="center"> Most used languages</h3>
