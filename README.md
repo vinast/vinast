@@ -57,7 +57,7 @@
    <td width="50%" valign="top">
     <h3 align="center"> Most used languages</h3>
      <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinast&theme=outrun&column=7&no-frame=true"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinast&layout=donut"/>
      </p>
   </td>
       </table></div>
