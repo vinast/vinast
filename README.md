@@ -10,19 +10,24 @@
  <div align="center">
   My Programming Language
   <br><br>
-  <img src="https://img.shields.io/badge/javascript%20-yellow?&style=for-the-badge&logo=javaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash%20Shell%20-gray?&style=for-the-badge&logo=gnu-bash&logoColor=black"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-teal?style=for-the-badge&logo=c&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/linux%20-darkgreen?style=for-the-badge&logo=linux&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Git-%23EA4335?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
   
   <br><br>
   My Programing Framework
   <br><br>
-  <img src="https://img.shields.io/badge/React%20js-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%23404e97.svg?style=for-the-badge&logo=bootstrap&logoColor=teal"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+
   <br><br></div>
 
 
@@ -32,8 +37,11 @@
   # 👻About me👻
   ```
   Introduce my name is Didik Vinastu usually called Vin.
- I was born in Batin Pengambang, I am a small child who wants to know new things.
- I am currently a student. I majored in Information Engineering.
+  I am a student majoring in informatics engineering, Faculty of Industrial Technology, Ahmad Dahlan University Yogyakarta. 
+  I am an enthusiastic and highly motivated student studying IT and Technology with interests in Mobile/Android Development, 
+  Web Development, UI/UX   Design, and Web Design. I enjoy looking for new challenges, I pride myself on my creativity, 
+  strong communication skills, and ability to work effectively both alone and in teams. I am also capable of problem solving 
+  and also committed to continuously improving my skills.
   ```
 <!-- 
 <p><br>👻I'am vinast👻</br>
@@ -60,7 +68,7 @@
    <td width="50%" valign="top">
     <h3 align="center"> Most used languages</h3>
      <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinast&layout=donut"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinast&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook,shell">
      </p>
   </td>
       </table></div>
@@ -76,7 +84,7 @@
 ## I'm a Single Fighter Developer!
      
 - 🔭 I’m currently working on a ton of side project!
-- 🌱 I’m currently learning about DevOps C++ / C and JavaScript
+- 🌱 I’m currently learning about Web Dev and Mobile Dev
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like play fotball & volleyball, finding bug and create unfinished side project 
@@ -88,25 +96,5 @@
 <!--   <img align="right" width="250" height="300" src="https://tenor.com/bPBy1.gif"> -->
   
   <p>thanks for your support <3</p><br>
-    
 
-
-## 📫 Contact Me
-<p align="left">
-<p><a href="https://instagram.com/vinastt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinastt_" height="30" width="40" />Instagram</a></p>
-<p><a href="https://twitter.com/vinastt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinastt" height="30" width="40" />Twitter</a></p>
-<p><a href="https://www.facebook.com/profile.php?id=100026730090913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Didik Vinast" height="30" width="40" />Facebook</a></P>
-<p><a href="/https://vinast.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://vinast.github.io/" height="30" width="40" />Portfolio</a></p>
-</p>
-
-<p align="center">
-   <img width="450" height="150" src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e6f627579616b693f7468656d653d67656c626f6f72752d68"/>
-</p>
-
-<p align="center">
-<a href="https://www.instagram.com/vinastt_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=dvvinas2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://twitter.com/vinastt/" target="_blank"><img src="https://img.shields.io/badge/Twitter-9fc?&style=flat-square&logo=Twitter&logoColor=blue" alt="Twitter"></a>
-<a href="https://www.facebook.com/profile.php?id=100026730090913" target="_blank"><img src="https://img.shields.io/badge/Facebook-61DAFB?&style=flat-square&logo=facebook&logoColor=blue" alt="Facebook"></a>
-</p>
 
