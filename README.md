@@ -93,8 +93,10 @@
 ## Wanna give me some appreciations? Yes please :D
 
 💸 [Saweria](https://saweria.co/vinast)
-<!--   <img align="right" width="250" height="300" src="https://tenor.com/bPBy1.gif"> -->
-  
-  <p>thanks for your support <3</p><br>
-
+<div style="text-align: center;">
+    <a href="https://saweria.co/vinast" target="_blank" style="display: inline-block; margin-bottom: 10px;">
+        <img src="https://github.com/user-attachments/assets/3e17b2c0-150d-43bd-9ca4-262f61ad02f5" alt="Saweria" style="width: 150px; height: auto; display: block; margin: 0 auto;">
+    </a>
+    <p>thanks for your support <3</p>
+</div>
 
