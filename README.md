@@ -1,7 +1,10 @@
 ### Hi Friend 👋
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/50107558/70987321-387b4a80-20f2-11ea-94e0-9a1078e14e37.png" width="154"></center>
+  <img src="https://github.com/user-attachments/assets/321e78a2-3897-4f79-93b4-e359a2b963e2" width="250" height="320" style="img-center"></center>
+<!-- https://user-images.githubusercontent.com/50107558/70987321-387b4a80-20f2-11ea-94e0-9a1078e14e37.png -->
+
+
   <h1 align="center">I'M DIDIK VINASTU</h1>
   <p align="center">Welcome to my github. Enjoyy!!!<p>
 <!--   <p align="center">
@@ -36,7 +39,7 @@
 
   # 👻About me👻
   ```
-  Introduce my name is Didik Vinastu usually called Vin.
+  Introduce my name is Didik Vinastu usually called vin.
   I am a student majoring in informatics engineering, Faculty of Industrial Technology, Ahmad Dahlan University Yogyakarta. 
   I am an enthusiastic and highly motivated student studying IT and Technology with interests in Mobile/Android Development, 
   Web Development, UI/UX   Design, and Web Design. I enjoy looking for new challenges, I pride myself on my creativity, 
@@ -93,10 +96,11 @@
 ## Wanna give me some appreciations? Yes please :D
 
 💸 [Saweria](https://saweria.co/vinast)
+<br>
 <div style="text-align: center;">
     <a href="https://saweria.co/vinast" target="_blank" style="display: inline-block; margin-bottom: 10px;">
-        <img src="https://github.com/user-attachments/assets/3e17b2c0-150d-43bd-9ca4-262f61ad02f5" alt="Saweria" style="width: 150px; height: auto; display: block; margin: 0 auto;">
+        <img src="https://github.com/user-attachments/assets/4513031d-8749-432a-8cef-e2dcb536d648" alt="Saweria" style="width: 150px; height: auto; display: block; margin: 0 auto;">
     </a>
-    <p>thanks for your support <3</p>
+  <p>thanks for your support <3</p>
 </div>
 
