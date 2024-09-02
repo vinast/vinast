@@ -37,7 +37,7 @@
 <br><br>
 
 
-  # 👻About me👻
+  # About me
   ```
   Introduce my name is Didik Vinastu usually called vin.
   I am a student majoring in informatics engineering, Faculty of Industrial Technology, Ahmad Dahlan University Yogyakarta. 
@@ -54,7 +54,7 @@
 <p>We do not forget............☠️</p>
 <p>Expect us.................!☠️</p> -->
 
-## Hello World, I'm Didik Vinast 👋
+## Hello World 👋
 
 <!-- [![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=vinast)](https://github.com/vinast/vinast) -->
 <div align="center">
@@ -89,7 +89,7 @@
 - 🔭 I’m currently working on a ton of side project!
 - 🌱 I’m currently learning about Web Dev and Mobile Dev
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like play fotball & volleyball, finding bug and create unfinished side project 
      <br><br><br>
 
